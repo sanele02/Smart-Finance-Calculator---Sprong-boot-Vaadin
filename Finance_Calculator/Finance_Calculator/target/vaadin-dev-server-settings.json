@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "C:/Users/Sanele/Downloads/Finance_Calculator/Finance_Calculator/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/Sanele/Downloads/Finance_Calculator/Finance_Calculator/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/Sanele/Downloads/Finance_Calculator/Finance_Calculator/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\Sanele\\Downloads\\Finance_Calculator\\Finance_Calculator\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\Sanele\\Downloads\\Finance_Calculator\\Finance_Calculator\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/Sanele/Downloads/Finance_Calculator/Finance_Calculator/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/Sanele/Downloads/Finance_Calculator/Finance_Calculator/target/dev-bundle/config",
+  "i18nOutput": "target/classes/vaadin-i18n",
+  "jarResourcesFolder": "C:/Users/Sanele/Downloads/Finance_Calculator/Finance_Calculator/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\Sanele\\Downloads\\Finance_Calculator\\Finance_Calculator\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
